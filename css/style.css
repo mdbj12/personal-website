@@ -1,0 +1,22 @@
+h1 {
+    font-size: xx-large;
+    text-align: center;
+}
+h2 {
+    font-size: larger;
+    text-align: center;
+}
+p {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img {
+    max-width: 250px;
+    max-height: auto;
+
+}
+#Center {
+    text-align: center;
+}
