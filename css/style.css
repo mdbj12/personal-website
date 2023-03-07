@@ -17,6 +17,12 @@ img {
     max-height: auto;
 
 }
-#Center {
+#imageOfMe {
     text-align: center;
+}
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
