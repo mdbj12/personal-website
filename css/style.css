@@ -10,8 +10,10 @@ p {
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 img {
     max-width: 250px;
     max-height: auto;
@@ -19,6 +21,15 @@ img {
 }
 #imageOfMe {
     text-align: center;
+    font-size: small;
+}
+img {
+    max-width: 250px;
+    max-height: auto;
+}
+#imageLatteArt {
+    text-align: center;
+    font-size: small;
 }
 table {
     text-align: center;
