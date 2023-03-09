@@ -1,56 +1,23 @@
-/* html {
-} */
 .navleft {
-    width: 20%;
     float: left;
+    width: 20%;
 }
 .nav {
     margin: 0;
     padding: 0;
     list-style: none;
 }
-/* Boxed border around the nav links (optional) */
-/* .nav li {
-    margin: 1px 0;
-    border: 1px solid #999;
-} */
 .nav li a {
     display: block;
     line-height: 3em;
     width: 100%;
     text-decoration: none;
 }
-h1 {
-    font-size: xx-large;
-    text-align: center;
-}
-h2 {
-    font-size: larger;
-    text-align: center;
-}
-p {
-    font-size: medium;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    width: 750px;
-    margin-left: auto;
-    margin-right: auto;
-    text-decoration: none;
-}
 img {
     max-width: 250px;
     max-height: auto;
-
 }
 #imageOfMe {
-    text-align: center;
-    font-size: small;
-}
-img {
     max-width: 250px;
     max-height: auto;
-}
-#imageLatteArt {
-    text-align: center;
-    font-size: small;
 }
