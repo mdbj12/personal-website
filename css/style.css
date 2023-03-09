@@ -1,3 +1,27 @@
+html {
+}
+.navleft {
+    width: 20%;
+    float: left;
+}
+.nav {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+/* Boxed border around the nav links (optional) */
+/* .nav li {
+    margin: 1px 0;
+    border: 1px solid #999;
+} */
+.nav li a {
+    display: block;
+    line-height: 3em;
+    width: 100%;
+    text-decoration: none;
+}
+#introduction {
+}
 h1 {
     font-size: xx-large;
     text-align: center;
@@ -13,6 +37,7 @@ p {
     width: 750px;
     margin-left: auto;
     margin-right: auto;
+    text-decoration: none;
 }
 img {
     max-width: 250px;
